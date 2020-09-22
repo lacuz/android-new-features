@@ -1,0 +1,12 @@
+{
+    "title" : "android 新系统新特性",
+    "author" : "周某某",
+    "description" : "android 新系统新特性",
+    "language" : "zh-hans",
+    "plugins": [
+    	"expandable-chapters",
+            "splitter",
+	"back-to-top-button",
+	"code"
+    ]
+}
