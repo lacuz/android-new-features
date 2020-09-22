@@ -6,7 +6,6 @@
     "plugins": [
     	"expandable-chapters",
             	"splitter",
-	"back-to-top-button",
 	"code"
     ]
 }
