@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Android 11](README.md)
     * [私隐权限](android11/权限/私隐权限.md)
-    	* [存储分区☆](android11/权限/存储分区.md)
+        * [存储分区☆](android11/权限/存储分区.md)
         * [单次访问权限★](android11/权限/单次访问权限.md)
         * [后台位置访问权限☆](android11/权限/后台位置访问权限.md)
         * [电话号码权限☆](android11/权限/电话号码权限.md)
@@ -32,3 +32,4 @@
         * [限制对 APN 数据库的读取访问☆](android11/影响/限制对APN数据库的读取访问.md)
         * [权限对话框的可见性★](android11/影响/权限对话框的可见性.md)
         * [系统提醒窗口变更★](android11/影响/系统提醒窗口变更.md)
+
