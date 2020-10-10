@@ -23,7 +23,7 @@
     * 影响
         * [永久SIM卡标识符★](android11/影响/永久SIM卡标识符.md)
         * [Conscrypt SSL 引擎★](android11/影响/ConscryptSSL引擎.md)
-        * [APK签名方案v2★](android11/影响/APK签名方案v2.md)
+        * [APK签名方案v2☆](android11/影响/APK签名方案v2.md)
         * [媒体intent操作需要系统默认相机☆](android11/影响/媒体intent操作需要系统默认相机.md)
         * [无障碍服务☆](android11/影响/无障碍服务.md)
         * [设备到设备文件传输☆](android11/影响/设备到设备文件传输.md)
